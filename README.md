@@ -1,0 +1,1 @@
+{"versionCode": "1.0.5-beta", "url": "https://github.com/Levitzy/IPHunter1/blob/main/app-debug.apk?raw=true", "Message": "IPHunter1 Update V1.0.5-beta\n\n✅ Bug fixed on AutoHunt\n✅ Improve AutoHunt\n✅ Improve UI\n✅ New Function 🔥\n\nMade By: ❤️"}
